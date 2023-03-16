@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullahsattar7
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning react mongodb.
-- 💞️ I’m looking to collaborate on web development.
+- 👀 I’m interested in android application development.
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on android app development.
 - 📫 How to reach me abdullahsattar556@gmail.com
 
 <!---

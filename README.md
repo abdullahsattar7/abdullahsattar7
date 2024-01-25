@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdullahsattar7
+- 👋 Hi, I’m Abdullah Sattar
 - 👀 I’m interested in android application development.
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on android app development.
+- 🌱 I’m currently working in flutter.
+- 💞️ I’m looking to collaborate on mobile app development.
 - 📫 How to reach me abdullahsattar556@gmail.com
 
 <!---

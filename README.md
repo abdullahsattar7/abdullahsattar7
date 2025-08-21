@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdullah Sattar
-- 👀 I’m interested in Mobile application development.
-- 🌱 I’m currently working in flutter.
-- 💞️ I’m looking to collaborate on mobile app development.
+- 👀 I’m interested in MERN Stack and Flutter.
+- 🌱 I’m currently working as a Full Stack Developer.
 - 📫 How to reach me abdullahsattar556@gmail.com
 
 <!---
